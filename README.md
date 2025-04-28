@@ -1,7 +1,7 @@
 # 3d-visual-rhetoric-Josh
 
 ## Introduction
-I would like to attempt to recreate my visual rhetorics project on fantasy using blender. I have never used Blender before, and I would like to learn how to use it. While I don’t expect my final result to look very good, I believe that it would be a great learning experience for me. I would find existing 3d models online, and insert them into the scene, and possibly modify them, if I need to modify them. While I don’t think that this will allow me to master blender by the end of the project, I hope that it will give me a good foundation to build off, that will allow me to eventually master it with future projects. This will also allow me to think about the differences between presenting a 2d environment and a 3d environment, and the way that someone would explore it. I don’t know how to use blender and therefore, don’t really know what would be too much of an aspirational goal vs what is simple to do. I am just going to try and do my best to create something that I find interesting.
+I would like to attempt to recreate my visual rhetorics project on fantasy using blender. I have never used Blender before, and I would like to learn how to use it. While I don’t expect my final result to look very good, I believe that it would be a great learning experience for me. I would find existing 3d models online, and insert them into the scene, and possibly modify them, if I need to modify them. While I don’t think that this will allow me to master blender by the end of the project, I hope that it will give me a good foundation to build off, that will allow me to eventually master it with future projects. This will also allow me to think about the differences between presenting a 2d environment and a 3d environment, and the way that someone would explore it. I don’t know how to use blender and therefore, don’t really know what would be too much of an aspirational goal vs what is simple to do. I am just going to try and do my best to create something that I find interesting. The Final Render is in the file Final.png.
 
 
 ## Baseline Goals
@@ -28,6 +28,8 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
     - e.g. Collaborate with the machine by using automated tools/filters/effects (gradients, blur, etc)
     - e.g. Use layer masks / blend modes for non-destructive extraction, saturation, cross-fades (ie. to seamlessly blend images from disparate sources), etc
 - etc.
+- Make an animation
+- Use Lighting to change the tone of the scene
 
 - Demonstrate through feedback that someone looking at your piece can accurately articulate your message/argument
 - Demonstrate through feedback that someone looking at your piece can accurately describe your intended audience
